@@ -1,6 +1,8 @@
 
 # EX 4C Coin Change Problem - Dynamic Programming.
 
+## DATE: 11-08-2026
+
 ## AIM:
 To write a Java program to for given constraints.
 You are given an integer array coins representing coins of different denominations and an integer amount representing a total amount of money.
@@ -26,8 +28,9 @@ Otherwise, print dp[amount], the minimum number of coins needed to make the give
 
 ## Program:
 ```
-Developed by: PRIYANGA R
-Register Number:212223230161
+Developed by: ibrahim fedah s
+Register Number: 212223240056
+
 import java.util.*;
 
 public class Solution {
